@@ -28,7 +28,7 @@ body{
 .nav-link{
    
     position: relative;
-    color: rgba(255,255,255,0.6) !important;
+    /* color: rgba(255,255,255,0.6) !important; */
     
     display: block;
     border-bottom: 1px solid rgba(255,255,255,0.1) !important;
@@ -37,7 +37,7 @@ body{
 
 
 .nav-link:hover{
-    color: #F5F5F5 !important;
+    color: #adb5bd;
 }
 .fa-google-plus:before {
     content: "\f0d5";
